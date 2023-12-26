@@ -87,6 +87,9 @@ p{
         height: 100px;
         width: 100px;
     }
+    .msg{
+        margin:1rem;
+    }
 
 
 }
